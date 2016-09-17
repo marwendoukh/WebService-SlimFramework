@@ -1,9 +1,9 @@
 <?php
 function getDB() {
-	$dbhost="localhost";
-	$dbuser="root";
-	$dbpass="123456";
-	$dbname="cars";
+	$dbhost="DatabaseServer";
+	$dbuser="DBuser";
+	$dbpass="Password";
+	$dbname="DatabaseName";
 	$dbConnection = new PDO("mysql:host=$dbhost;dbname=$dbname", $dbuser, $dbpass);	
 	$dbConnection->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 	return $dbConnection;
