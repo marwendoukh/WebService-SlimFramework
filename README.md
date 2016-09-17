@@ -6,7 +6,7 @@ Slim Framework is a great PHP framework that will help you create a Web Service 
 # How to use it ?
 
 1. Change the Database parameters in the DBconfig.php file
-2. Import the db.sql (to create the Database tables)
+2. Import the car.sql (to create the Database tables)
 3. Visit the webservice.php throught your browser
 4. Enjoy !
 
