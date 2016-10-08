@@ -10,4 +10,4 @@ Slim Framework is a great PHP framework that will help you create a Web Service 
 3. Visit the webservice.php throught your browser
 4. Enjoy !
 
-
+To follow the full tutorial visit my website : [here] (https://marwendoukh.wordpress.com/2016/10/08/web-services-using-the-slim-framework/)
